@@ -1,0 +1,1 @@
+int a = 2 + 2;System.out.println(a);The method PrintIn(String) is undefined for the type PrintStreamSystem.out.println("Hello, world");Person p = new Person();	p.setMaximumBooks(20);	p.SetName("GRRM");	System.out.println(p.GetName());
